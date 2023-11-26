@@ -13,7 +13,7 @@ The aim of this project is to calculate the proposed taxations to be imposed by 
 
 A list of dictionaries that conatin product information was provided by Azubi Africa. This list of dictionaries was then converted to a DataFrame and used for the analysis.
 
-**Operation**
+## Analysis
 The Total Profit for each product was calculated using the formula below.
 net_revenue_per_product = (retail_price - wholesale price) * sales
 
