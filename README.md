@@ -22,3 +22,10 @@ net_revenue_per_product = (retail_price - wholesale price) * sales
 - Which products’ retail price is more than twice the wholesale price?
 - How much did the store make from food vs. computers vs. books?
 - Calculate the new net revenue after a 30% discount on the wholesale price of goods.
+
+## Author
+
+| Name | Profile | Portfolio | Articles | Contact |
+| ---- | ------- | --------- | -------- | ------- |
+| Chidiebere David Ogbonna | [LinkedIn](https://www.linkedin.com/in/chidieberedavidogbonna/) | [GitHub](https://github.com/iameberedavid) | [Medium](https://eberedavid.medium.com) | eberedavid326@gmail.com |
+
