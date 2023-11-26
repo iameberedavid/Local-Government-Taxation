@@ -1,4 +1,8 @@
 # LOCAL GOVERNMENT TAXATION
+
+## Technolgies
+[Data Analysis](https://img.shields.io/badge/Data-Analysis-blue)
+
 The aim of this project is to calculate the proposed taxations to be imposed by the Local Government on product sales in retail stores and analyse the net revenue after taxation.
 
 **Operation**
