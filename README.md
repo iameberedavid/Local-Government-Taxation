@@ -3,12 +3,18 @@
 ## Technolgies
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue)
 ![Python](https://img.shields.io/badge/Python-blue)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter Notebook-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-blue)
+
+## Project Description
 
 The aim of this project is to calculate the proposed taxations to be imposed by the Local Government on product sales in retail stores and analyse the net revenue after taxation.
 
+## Data Source
+
+A list of dictionaries that conatin product information was provided by Azubi Africa. This list of dictionaries was then converted to a DataFrame and used for the analysis.
+
 **Operation**
-Calculate the Total Profit for each product using the formula 
+The Total Profit for each product was calculated using the formula below.
 net_revenue_per_product = (retail_price - wholesale price) * sales
 
 **Analytical Questions**
