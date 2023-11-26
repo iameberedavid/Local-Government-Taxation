@@ -1,9 +1,9 @@
 # LOCAL GOVERNMENT TAXATION
 
 ## Technolgies
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-light-green)
 ![Python](https://img.shields.io/badge/Python-blue)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-light-green)
 
 ## Project Description
 
