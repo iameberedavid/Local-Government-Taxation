@@ -28,7 +28,7 @@ net_revenue_per_product = (retail_price - wholesale price) * sales
 
 | Name | Profile | Portfolio | Articles | Contact |
 | ---- | ------- | --------- | -------- | ------- |
-| Chidiebere David Ogbonna | [LinkedIn](https://www.linkedin.com/in/chidieberedavidogbonna/) | [GitHub](https://github.com/iameberedavid) | [Medium](https://eberedavid.medium.com) | eberedavid326@gmail.com |
+| Chidiebere David Ogbonna | [LinkedIn](https://www.linkedin.com/in/chidieberedavidogbonna/) | [GitHub](https://github.com/iameberedavid) | [Medium](https://eberedavid.medium.com) | chidieberedavid326@gmail.com |
 
 ## License
 
@@ -36,4 +36,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-For questions, feedback, and collaborations, please send a mail to: eberedavid326@gmail.com
+For questions, feedback, and collaborations, please send a mail to: chidieberedavid326@gmail.com
